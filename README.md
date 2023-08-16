@@ -1,17 +1,16 @@
 
 <div align=center>
+  
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=14&height=200&section=header&text=Hi,%20@devwuu%20here!&fontSize=40&rotate=13.7&fontAlignY=10&fontAlign=80)
 
-<!-- 
-  ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hello%20world!&fontSize=50) 
--->
-<h1>👋 Hi, @devwuu here! </h1>
-</br>
+
+
 <h3 align="center"> 
-  📚 STACKS 📚
+  📚 Tech Stack in Commercial Projects 📚
 </h3>
 <br>
 
-![Static Badge](https://img.shields.io/badge/java-%23007396?style=for-the-badge&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/springboot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -19,11 +18,15 @@
 ![Static Badge](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=PostgresQL&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-<!--
-![Static Badge](https://img.shields.io/badge/jpa-%236DB33F?style=for-the-badge&logo=jpa&logoColor=white)
+
+<br>
+
+<h3 align="center"> 
+  📚 Tech Stack in Individual Experimental Projects📚
+</h3>
+<br>
+
+![Static Badge](https://img.shields.io/badge/spring%20security-%236DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Static Badge](https://img.shields.io/badge/redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/sequelize-%2352B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
--->
-
-
-</div>
-  
