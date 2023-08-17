@@ -1,7 +1,7 @@
 
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=14&height=200&section=header&text=Hi,%20@devwuu%20here!&fontSize=40&rotate=13.7&fontAlignY=10&fontAlign=80)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=14&height=200&section=header&text=Hi,&fontSize=40&rotate=13&fontAlignY=-4&fontAlign=98)
 
 
 
@@ -30,3 +30,6 @@
 ![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/sequelize-%2352B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=gradient&customColorList=14&height=200&text=%20@devwuu%20here!&fontSize=40&rotate=13.1&fontAlignY=27&fontAlign=18)
