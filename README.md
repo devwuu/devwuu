@@ -3,11 +3,12 @@
   
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=14&height=200&section=header&text=Hi,&fontSize=40&rotate=13&fontAlignY=-4&fontAlign=98)
 
-
+<br>
 
 <h3 align="center"> 
   📚 Tech Stack in Commercial Projects 📚
 </h3>
+
 <br>
 
 ![Static Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logoColor=white)
@@ -19,17 +20,23 @@
 ![Static Badge](https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-<br>
+<br><br>
 
 <h3 align="center"> 
   📚 Tech Stack in Individual Experimental Projects📚
 </h3>
+
 <br>
 
 ![Static Badge](https://img.shields.io/badge/spring%20security-%236DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Static Badge](https://img.shields.io/badge/oracle-%23F80000?style=for-the-badge&logo=oracle)
+![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/sequelize-%2352B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
+<br><br><br>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=gradient&customColorList=14&height=200&text=%20@devwuu%20here!&fontSize=40&rotate=13.1&fontAlignY=27&fontAlign=18)
+
+</div>
