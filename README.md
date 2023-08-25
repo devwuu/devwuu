@@ -1,13 +1,13 @@
 
+<br><br><br>
+
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=14&height=200&section=header&text=Hi,&fontSize=40&rotate=13&fontAlignY=-4&fontAlign=98)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=14&height=100&section=header&text=Hi!%20%40devwuu%20here!&animation=twinkling&fontSize=40)
 
 <br>
 
-<h3 align="center"> 
-  📚 Tech Stack in Commercial Projects 📚
-</h3>
+### 📚 Use in Commercial Projects 📚
 
 <br>
 
@@ -22,9 +22,7 @@
 
 <br><br>
 
-<h3 align="center"> 
-  📚 Tech Stack in Individual Experimental Projects📚
-</h3>
+### 📚 Use in Individual Experimental Projects📚
 
 <br>
 
@@ -36,7 +34,3 @@
 ![Static Badge](https://img.shields.io/badge/sequelize-%2352B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
 <br><br><br>
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=gradient&customColorList=14&height=200&text=%20@devwuu%20here!&fontSize=40&rotate=13.1&fontAlignY=27&fontAlign=18)
-
-</div>
