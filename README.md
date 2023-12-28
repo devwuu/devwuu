@@ -21,7 +21,6 @@
 ![Static Badge](https://img.shields.io/badge/spring%20security-%236DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/nestjs-%23E0234E?style=for-the-badge&logo=nestjs)
-![Static Badge](https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=PostgresQL&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/oracle-%23F80000?style=for-the-badge&logo=oracle)
