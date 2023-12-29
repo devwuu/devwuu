@@ -7,7 +7,7 @@
 
 <br>
 
-### 📚 Tech 📚
+### 📚 Used Tech 📚
 
 <br>
 
@@ -23,13 +23,8 @@
 ![Static Badge](https://img.shields.io/badge/nestjs-%23E0234E?style=for-the-badge&logo=nestjs)
 
 ![Static Badge](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=PostgresQL&logoColor=white)
-![Static Badge](https://img.shields.io/badge/oracle-%23F80000?style=for-the-badge&logo=oracle)
-![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![Static Badge](https://img.shields.io/badge/vue-%234FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
-
 
 <br><br><br>
